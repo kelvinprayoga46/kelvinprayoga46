@@ -29,6 +29,6 @@ I focus on conducting penetration testing to ensure web applications are not onl
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinprayoga46&card_width=495&langs_count=7&layout=compact&theme=react)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kelvinprayoga46&langs_count=7&layout=compact&theme=react)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
