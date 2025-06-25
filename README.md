@@ -25,7 +25,7 @@ I focus on conducting penetration testing to ensure web applications are not onl
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinprayoga46&theme=react&show_icons=true&)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kelvinprayoga46&theme=react&card_width=470)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kelvinprayoga46&theme=react)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinprayoga46&card_width=495&langs_count=7&layout=compact&theme=react)
 
